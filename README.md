@@ -1,3 +1,16 @@
+# steps to run backend
+1. download through the App-link
+2. npm i 
+3. check .eve
+4. npm start 
+
+# steps to run frontend
+1. download through the App-link
+2. npm i 
+3. check .eve
+4. npm start 
+
+
 # For login 1st Signup
 
 
@@ -42,20 +55,20 @@ A full-stack task management web app built to help users organize, manage, and t
 
 ## 🚀 Deployment
 
-> 🌐 Live App: [https://your-task-manager.vercel.app](https://your-task-manager.vercel.app)  
-> 🖥️ API Server: [https://your-task-api.onrender.com](https://your-task-api.onrender.com)
+> 🌐 Live App: [https://task-management-frontend-mauve.vercel.app/]
+> 🖥️ API Server: [https://task-management-backend-git-main-sagarssharma.vercel.app/]
 
-_(Replace with your actual deployment links)_
 
----
 
 ## 🧰 Installation & Setup
 
 ### 🔧 Backend Setup
 ```bash
-git clone https://github.com/yourusername/task-manager-api.git
-cd task-manager-api
+git clone https://github.com/Amansagar1/Task-Management-Frontend.git
+git clone https://github.com/Amansagar1/Task-Management-Backend.git
+
 npm install
+npm start
 
 
 🙌 Author
