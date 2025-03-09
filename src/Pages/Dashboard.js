@@ -32,7 +32,7 @@ const Dashboard = () => {
   }, {});
 
   return (
-    <div className="p-4">
+    <div className="p-4 h-full overflow-scroll">
 
       <div className="flex flex-col md:flex-row md:items-center justify-between mb-6 gap-4">
         <h1 className="text-3xl font-bold text-gray-800">Task Boards</h1>
