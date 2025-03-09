@@ -1,4 +1,4 @@
-const BASE_URL = "http://localhost:5000/api";
+const BASE_URL = "https://task-management-backend-git-main-sagarssharma.vercel.app/api";
 console.log(BASE_URL)
 const EndPoints = {
 
